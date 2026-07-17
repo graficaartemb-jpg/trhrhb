@@ -1,0 +1,8 @@
+{
+  "name": "Comunidade A Legião",
+  "description": "Reservatório de Dopamina: Acesse com 20% OFF e mude sua vida",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
